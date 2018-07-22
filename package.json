@@ -1,0 +1,20 @@
+{
+  "name": "amt-redis-service",
+  "version": "1.0.0",
+  "description": "Redis service app prototype, named in honour of Alan Turing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanx/amt-redis-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanx/amt-redis-service/issues"
+  },
+  "homepage": "https://github.com/evanx/amt-redis-service#readme"
+}
